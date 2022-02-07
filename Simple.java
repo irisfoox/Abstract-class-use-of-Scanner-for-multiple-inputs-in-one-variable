@@ -1,5 +1,3 @@
-package hello;
-
 import java.util.Scanner;
 
 public class Simple {
@@ -45,7 +43,7 @@ public class Simple {
 			myCat.animalSound();
 			myCat.sleep();
 		}else {
-			System.out.println("typing error");
+			System.out.println("typing error: ");
 			System.out.println(animal);
 		}
 
